@@ -1,0 +1,104 @@
+{
+  "produtos": [
+
+    {
+      "id": 1,
+      "imagem": "imagem/Joelho.jpeg",
+      "nome": "Joelho 90º Soldável",
+      "categoria": "Hidráulico",
+      "descricao": "É utilizado para realizar a transição de tubos de água fria em um ângulo de 90°.",
+      "preco": 10.44 ,
+      "estoque": 1655
+    },
+     
+    {
+      "id": 2,
+      "imagem": "imagem/Luva-PVC.jpeg",
+      "nome": "Luva PVC Marrom 25 mm x 3/4",
+      "categoria": "Hidráulico",
+      "descricao": "É usado para junção de tubos d'agua fria.",
+      "preco": 15.70,
+      "estoque": 52
+    },
+
+    {
+      "id": 3,
+      "imagem": "imagem/Argamassa.jpeg",
+      "nome": "Argamassa para Porcelanato Interno Cinza 20kg - Quartzolit",
+      "categoria": "Argamassas e Rejuntes",
+      "descricao": "É a escolha certa para quem busca segurança, praticidade e alto desempenho na aplicação de porcelanatos em áreas internas.",
+      "preco": 25.90,
+      "estoque": 855
+    },
+    
+    {
+      "id": 4,
+      "imagem": "imagem/Lampada-Led.jpeg",
+      "nome": "Lâmpada Led Bulbo 20W 6500K Luz Branca Fria Bocal E27 Bivolt",
+      "categoria": "Elétrica",
+      "descricao": "Proporciona iluminação clara e uniforme para espaços amplos, com tonalidade fria que reforça sensação de nitidez.",
+      "preco": 14.99,
+      "estoque": 7000
+    },
+
+    {
+      "id": 5,
+      "imagem": "imagem/Refletor.jpeg",
+      "nome": "Refletor Led Slim Retangular 20W 120 RGB Autovolt",
+      "categoria": "Elétrica",
+      "descricao": "Este refletor slim de 20W conta com sistema RGB 120, permitindo múltiplas combinações de cor para efeitos decorativos marcantes.",
+      "preco": 16.90,
+      "estoque": 123
+    },
+
+    {
+      "id": 6,
+      "imagem": "imagem/Massa-Corrida.jpeg",
+      "nome": "Massa Corrida PVA 25Kg Branco - Iquine",
+      "categoria": "Pintura",
+      "descricao": "É a escolha ideal para quem busca um acabamento impecável em superfícies internas. Fácil de aplicar e com alto rendimento, este produto garante uma parede lisa e pronta para receber pintura, trazendo praticidade e eficiência para seu projeto.",
+      "preco": 19.99,
+      "estoque": 200
+    },
+
+    {
+      "id": 7,
+      "imagem": "imagem/Betoneira.jpeg",
+      "nome": "Betoneira 400L Monofásico 2CV com Kit Proteção",
+      "categoria": "Máquinas e Motores",
+      "descricao": "Entrega desempenho e praticidade ideais para uso profissional ou doméstico. Desenvolvido com atenção à eficiência, garante resultados consistentes e economia de tempo em cada aplicação.",
+      "preco": 31.99,
+      "estoque": 50
+    },
+
+    {
+      "id": 8,
+      "imagem": "imagem/Maquina-de-Solda.jpeg",
+      "nome": "Máquina de Solda Inversora Tork 220V KAB 150 MICRO",
+      "categoria": "Máquinas e Motores",
+      "descricao": "Combina qualidade e desempenho em cada detalhe. Produzida com material de alta resistência, garante uso seguro e prolongado.",
+      "preco": 29.99,
+      "estoque": 23
+    },
+
+    {
+      "id": 9,
+      "imagem": "imagem/Chuveiro.jpeg",
+      "nome": "Chuveiro Lorenzetti Loren Shower Multi 6.800w 220V",
+      "categoria": "Elétrica",
+      "descricao": "Desfrute de banhos perfeitos com este produto.",
+      "preco": 20.90,
+      "estoque": 440
+    },
+
+    {
+      "id": 10,
+      "imagem": "imagem/Cuba-de-Apoio.jpeg",
+      "nome": "Cuba de Apoio Retangular Vittoria 46x35cm Branca",
+      "categoria": "Cubas e Lavatórios",
+      "descricao": "É uma peça elegante e resistente, ideal para compor o ambiente do seu banheiro. Fabricada em louça com acabamento esmaltado, ela oferece facilidade de limpeza e durabilidade.",
+      "preco": 12.90,
+      "estoque": 70
+    }
+  ]
+}
