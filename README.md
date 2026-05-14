@@ -4,10 +4,7 @@ Este projeto foi desenvolvido como parte da disciplina de Desenvolvimento para I
 
 ## Participantes do grupo:
 
-1 - Giulliano Rodrigues;
-2 - Luiza Beatriz;
-3 - Manoel Elias;
-4 - Swellington Gregorio.
+Giulliano Rodrigues • Luiza Beatriz • Manoel Elias • Swellington Gregorio.
 
 ## CATÁLOGO DE MATERIAIS DE CONSTRUÇÃO E FERRAMENTAS
 
