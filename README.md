@@ -1,11 +1,13 @@
-# Projeto-de-Diogo
-Participantes do grupo:
+## Obras em Frente - Gestão de Estoque e Equipe
+
+Este projeto foi desenvolvido como parte da disciplina de Desenvolvimento para Internet. Trata-se de um sistema para controle de itens e gestão de funcionários para empresas do setor de construção civil.
+
+## Participantes do grupo:
 
 1 - Giulliano Rodrigues;
 2 - Luiza Beatriz;
 3 - Manoel Elias;
 4 - Swellington Gregorio.
-
 
 ## CATÁLOGO DE MATERIAIS DE CONSTRUÇÃO E FERRAMENTAS
 
