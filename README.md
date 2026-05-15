@@ -2,7 +2,7 @@
 
 Este projeto é uma aplicação web simples que simula um catálogo de loja de construção. O objetivo principal é demonstrar o uso da biblioteca **jQuery** para carregar dados assincronamente de um arquivo local (`data.json`), exibir produtos na tela e gerenciar a interação do usuário ao selecionar itens para uma lista de compras ou orçamento.
 
-## 👥 Participantes do grupo:
+### 👥 Participantes do grupo:
 
 Giulliano Rodrigues • Luiza Beatriz • Manoel Elias • Swellington Gregorio.
 
@@ -25,8 +25,6 @@ Aplicação web dinâmica para navegação, catálogo de produtos interativo de 
 * **jQuery + AJAX:** Manipulação DOM e filtros.
 * **JSON:** Estrutura de dados para o catálogo de produtos.
 
-## Instruções de uso e funcionamento
+### Instruções de uso e funcionamento
 
 Recomenda-se usar a extensão **Live Server** do VS Code para rodar este projeto. Abra o `index.html` e clique em *"Go Live"* na barra inferior para garantir o carregamento correto dos dados JSON.
-
-## Alunos participantes
