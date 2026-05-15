@@ -2,9 +2,12 @@
 
 Este projeto é uma aplicação web simples que simula um catálogo de loja de construção. O objetivo principal é demonstrar o uso da biblioteca **jQuery** para carregar dados assincronamente de um arquivo local (`data.json`), exibir produtos na tela e gerenciar a interação do usuário ao selecionar itens para uma lista de compras ou orçamento.
 
-### 👥 Participantes do grupo:
-
-Giulliano Rodrigues • Luiza Beatriz • Manoel Elias • Swellington Gregorio.
+### 👥 Equipe de Desenvolvimento
+Este projeto foi realizado de forma colaborativa pelos alunos:
+* **Manoel Elias**
+* **Swellington Gregorio**
+* **Luiza Beatriz**
+* **Giulliano Rodrigues**
 
 ## 🔧 Catálogo de Materiais de Construção e Ferramentas
 
